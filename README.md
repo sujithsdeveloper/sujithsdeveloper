@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👋 Hi, I'm Sujith – a passionate Flutter developer<br>📱 I craft elegant and high-performance apps for iOS, Android, and the web<br>🌍 Experienced in building full-fledged applications for both mobile and web platforms<br>🧑‍💻 I enjoy working on real-world projects and open-source contributions<br>💼 Open to freelance opportunities and collaboration on exciting projects<br>🚀 Currently focused on building meaningful, user-friendly digital experiences<br>📫 Reach me: sujithsdeveloper@gmail.com<br>🌐 Portfolio: sujithsdeveloper.github.io/PortfolioWebApp</p>
+<p align="left">👋 Hi, I'm Sujith – a passionate Flutter developer<br>📱 I craft high-performance apps for iOS, Android, and the web<br>🌍 Experienced in building full-fledged applications for both mobile and web platforms<br>🧑‍💻 I enjoy working on real-world projects and open-source contributions<br>💼 Open to freelance opportunities and collaboration on exciting projects<br>🚀 Currently focused on building meaningful, user-friendly digital experiences<br>📫 Reach me: sujithsdeveloper@gmail.com<br>🌐 Portfolio: sujithsdeveloper.github.io/PortfolioWebApp</p>
 
 ###
 
