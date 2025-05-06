@@ -2,17 +2,7 @@
 
 ###
 
-<p align="left">
-  👋 Hi, I'm Sujith – a passionate Flutter developer<br>
-  📱 I craft elegant and high-performance apps for iOS, Android, and the web<br>
-  🌍 Experienced in building full-fledged applications for both mobile and web platforms<br>
-  🧑‍💻 I enjoy working on real-world projects and open-source contributions<br>
-  💼 Open to freelance opportunities and collaboration on exciting projects<br>
-  🚀 Currently focused on building meaningful, user-friendly digital experiences<br>
-  📫 Reach me: <a href="mailto:sujithsdeveloper@gmail.com">sujithsdeveloper@gmail.com</a><br>
-  🌐 Portfolio: <a href="https://sujithsdeveloper.github.io/PortfolioWebApp" target="_blank">sujithsdeveloper.github.io/PortfolioWebApp</a>
-</p>
-
+<p align="left">👋 Hi, I'm Sujith – a passionate Flutter developer<br>📱 I craft elegant and high-performance apps for iOS, Android, and the web<br>🌍 Experienced in building full-fledged applications for both mobile and web platforms<br>🧑‍💻 I enjoy working on real-world projects and open-source contributions<br>💼 Open to freelance opportunities and collaboration on exciting projects<br>🚀 Currently focused on building meaningful, user-friendly digital experiences<br>📫 Reach me: sujithsdeveloper@gmail.com<br>🌐 Portfolio: sujithsdeveloper.github.io/PortfolioWebApp</p>
 
 ###
 
@@ -42,6 +32,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
 </div>
 
 ###
@@ -57,6 +49,6 @@
 
 ###
 
-
+<img src="https://raw.githubusercontent.com/sujithsdeveloper/sujithsdeveloper/output/snake.svg" alt="Snake animation" />
 
 ###
