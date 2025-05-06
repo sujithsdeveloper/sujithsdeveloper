@@ -49,6 +49,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/sujithsdeveloper/sujithsdeveloper/output/snake.svg" alt="Snake animation" />
 
 ###
